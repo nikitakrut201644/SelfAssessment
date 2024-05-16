@@ -79,16 +79,16 @@
   - `with`: 🎓 known
   - `new`: 🖐️ used
 - Functions
-  - Arrow function: 🎓 known
-  - Async function: 🎓 known
-  - Function declaration: 🎓 known
-  - Function expression: 🎓 known
-  - Default parameters: 🎓 known
+  - Arrow function: 🖐️ used
+  - Async function: 🖐️ used
+  - Function declaration: 🖐️ used
+  - Function expression: 🖐️ used
+  - Default parameters: 🖐️ used
   - Functional object: 👂 heard
-  - `Function.prototype.call`: 🎓 known
-  - `Function.prototype.bind`: 🎓 known
-  - `Function.prototype.apply`: 🎓 known
-  - `return`: 🎓 known
+  - `Function.prototype.call`: 🖐️ used
+  - `Function.prototype.bind`: 🖐️ used
+  - `Function.prototype.apply`: 🖐️ used
+  - `return`: 🖐️ used
 - Data structures
   - `Array`: 🖐️ used
   - `Map`: 🖐️ used
@@ -97,7 +97,7 @@
   - `WeakSet`: 🎓 known
   - Typed arrays: 👂 heard
   - Mixins: 👂 heard
-  - `Object.assign`: 🎓 known
+  - `Object.assign`: 🖐️ used
 - Standard classes and namespaces
   - `Proxy`: 🖐️ used
   - `RegExp`: 🖐️ used
